@@ -23,6 +23,9 @@ for문에 대하여
     fruits=['orange','blueberry','banana']   
         for fruit in fruits:   
             print(fruit)   
+출력 예:\orange   
+        \blueberry     
+        \banana   
    
 1-2. range()함수:이번 *로 다이아몬드 만들기에서 핵심인 range함수는 주로 for문안에서 사용 되며 정한 범위 안에서 연속된 정수를 생성하는데 사용됩니다.
     사용방법:   
