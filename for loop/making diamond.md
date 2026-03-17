@@ -28,7 +28,7 @@ orange
         blueberry     
         banana   
    
-1-2. range()함수:이번 *로 다이아몬드 만들기에서 핵심인 range함수는 주로 for문안에서 사용 되며 정한 범위 안에서 연속된 정수를 생성하는데 사용됩니다.
+1-2. range()함수:이번 *로 다이아몬드 만들기에서 핵심인 range함수는 주로 for문안에서 사용 되며 정한 범위 안에서 연속된 정수 생성을 위해서 사용됩니다.
     사용방법:   
     -range(stop):0부터 stop-1까지의 숫자 생성.   
     *range(start,stop):start부터 stop-1까지의 숫자 생성.   
