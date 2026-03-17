@@ -65,6 +65,6 @@ x-1부터 0까지 출력된다.
  - (x-i)로 띄어쓰기가 밑에서 부터 3,2...이런 식으로 되고 *도 밑에서 부터 1,3,5이런식으로 출력되는 것이다.
 ***
 
-## 이렇게 다이아몬드 만들기에 대한 공부는 끝났고 긴 글 읽어주셔서 정말 감사합니다!
+## 이렇게 *로 다이아몬드 만들기에 대한 공부는 끝났고 긴 글 읽어주셔서 정말 감사합니다!
 참조링크: [마크다운에 대해서](https://gist.github.com/ihoneymon/652be052a0727ad59601, "Markdown"), [for문에 대해서](https://www.codeit.kr/articles/python-for-loop?gad_source=1&gad_campaignid=23076944311&gbraid=0AAAAAC-_HntdNTj8AacU%E3%85%8ADUacTQlaggFet&gclid=Cj0KCQjw9-PNBhDfARIsABHN6-1THSPky-VwFHVj_OdNJWxNhGokgyCwqg41FMhn0ks_aK6lfBMsGZAaAnZvEALw_wcB, "for loop"), [range함수에 대해서](https://devpouch.tistory.com/70#google_vignette, "range")
  
