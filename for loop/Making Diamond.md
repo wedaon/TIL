@@ -36,7 +36,7 @@ for문에 대하여
 &nbsp; &nbsp; ***   
 &nbsp; *****   
 &nbsp; &nbsp; ***   
-&nbsp; *  )   
+&nbsp; &nbsp; &nbsp; *  )   
  
 
  
