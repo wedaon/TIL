@@ -22,7 +22,7 @@ for문에 대하여
 <code>
  range(x) #0부터 x-1까지의 숫자를 지정한다.
  range(x,y) #x부터 y-1까지의 숫자를 지정한다.
- range(x,y,z) #x부터 y-1까지의 숫자를 z간격으로 지정한다.
+ range(x,y,z) #x부터 y-1까지의 숫자를 z간격으로 지정한다. 각 각 x는 start y는 stop z는 step을 뜻 한다.
  </code>
 </pre>
 
