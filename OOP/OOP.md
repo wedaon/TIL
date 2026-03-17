@@ -34,4 +34,5 @@
 참조 자료:
 [객체지향프로그래밍참고서](https://www.codestates.com/blog/content/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8A%B9%EC%A7%95,"OOP"),
 [MARKDOWN참고서](https://gist.github.com/ihoneymon/652be052a0727ad59601,"MARKDOWN"),
-[TIL참고서](https://doing7.tistory.com/4,"TIL")
+[TIL참고서](https://doing7.tistory.com/4,"TIL"),
+[SOLID원칙참고서](https://mangkyu.tistory.com/194)
