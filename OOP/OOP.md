@@ -21,7 +21,7 @@
 메모리 사용량이 높음, 높은 수준의 추상화와 설걔룰 요구하므로 초기 개발 속도가 느릴 수 있으며,사전 설계가 필수적임.    
 *****
 
-참조 자료
-[객체지향프로그래밍참고서](https://www.codestates.com/blog/content/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8A%B9%EC%A7%95,"OOP")
-[MARKDOWN참고서](https://gist.github.com/ihoneymon/652be052a0727ad59601,"MARKDOWN")
-[TIL참고서](https://doing7.tistory.com/4,"TIL")
+참조 자료:
+[객체지향프로그래밍참고서](https://www.codestates.com/blog/content/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8A%B9%EC%A7%95,"OOP"),
+[MARKDOWN참고서](https://gist.github.com/ihoneymon/652be052a0727ad59601,"MARKDOWN"),
+[TIL참고서](https://doing7.tistory.com/4,"TIL"),
