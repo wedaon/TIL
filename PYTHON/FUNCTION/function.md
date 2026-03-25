@@ -12,4 +12,13 @@
     명령문1
     명령문2
 </code></pre>
-  
+이렇게 쓸 수 있다.   
+* 함수 호출이라는 것도 있는데 함수 호출이란 함수이름() 이렇게 쓴다면 함수가 호출되어 함수안에 있는 문장들이 실행되며 실행이 끝나면 호출한 위치로 되돌아간다.
+함수와 함수 호출을 쓰는 예)
+<pre><code>
+  def get_area(radius):
+    area=3.14*radius**2 #원의 면적
+    return area #area로
+  result=get_area(3) #함수안 매개변수(radius)한테 3을 넣음
+  print(result) #결과는 28.26이 출력된다.
+</code></pre>
